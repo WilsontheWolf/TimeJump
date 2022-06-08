@@ -7,3 +7,5 @@ Maintainer: WilsontheWolf
 Author: WilsontheWolf
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000)
+Depiction: https://wilson.antti.codes/repo/depictions/web/com.wilsonthewolf.timejump
+SileoDepiction: https://wilson.antti.codes/repo/depictions/sileo/com.wilsonthewolf.timejump

@@ -32,7 +32,7 @@
 				<key>label</key>
 				<string>Time</string>
 				<key>footerText</key>
-				<string>How much farther ahead, in seconds, the lock screen clock will be.</string>
+				<string>How much farther ahead, in minutes, the lock screen clock will be.</string>
 			</dict>
 			<dict>
 				<key>cell</key>
