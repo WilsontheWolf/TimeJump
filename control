@@ -1,0 +1,9 @@
+Package: com.wilsonthewolf.timejump
+Name: TimeJump
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: WilsontheWolf
+Author: WilsontheWolf
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
