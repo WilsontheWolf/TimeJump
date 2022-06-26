@@ -6,6 +6,7 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: WilsontheWolf
 Author: WilsontheWolf
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
+Icon: file:///Library/PreferenceBundles/TimeJumpPrefs.bundle/Icon@3x.png
 Depiction: https://wilson.antti.codes/repo/depictions/web/com.wilsonthewolf.timejump
 SileoDepiction: https://wilson.antti.codes/repo/depictions/sileo/com.wilsonthewolf.timejump
