@@ -14,7 +14,7 @@ static void notificationCallback(CFNotificationCenterRef center, void *observer,
 	NSNumber * enabledValue = (NSNumber *)[[NSUserDefaults standardUserDefaults] objectForKey:@"enabled" inDomain:nsDomainString];
 	enabled = (enabledValue)? [enabledValue boolValue] : YES;
 	NSNumber * timeValue = (NSNumber *)[[NSUserDefaults standardUserDefaults] objectForKey:@"time" inDomain:nsDomainString];
-	offset = (timeValue)? [timeValue doubleValue] : 0.0;
+	offset = (timeValue)? [timeValue doubleValue] : 2.0;
 }
 
 %ctor {

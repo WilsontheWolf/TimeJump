@@ -1,6 +1,6 @@
 Package: com.wilsonthewolf.timejump
 Name: TimeJump
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Jump Time.
 Maintainer: WilsontheWolf
